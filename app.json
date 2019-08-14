@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "SurfSUP",
+    "slug": "SurfSUP",
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/wave.jpg",
+    "splash": {
+      "image": "./assets/images/wave.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "Need some waves? \nFind them quickly with SurfSUP, the surfing app for all your shredding needs."
+  }
+}
