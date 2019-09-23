@@ -1,4 +1,4 @@
-[![title] SurfSUP]
+SurfSUP
 
 (This was created during my time as a student at Code Chrysalis.)
 
@@ -11,8 +11,6 @@
 * Track your position with Google Maps location data!
 
 ## Required Techniques
-
-![techs](https://user-images.githubusercontent.com/50805657/62989301-691c5080-be82-11e9-86d8-1e8c6bbf440a.png)
 
 (This app was created in JavaScript with React-Native.)
 
